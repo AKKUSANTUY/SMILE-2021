@@ -12,17 +12,51 @@ white='\033[37;1m'
 yellow='\033[33;1m'
 
 clear
+echo $blue "Loading Cuk."
+sleep 1
+clear
+echo $green ">>>Loading Cuk.."
+sleep 1
+clear
+echo $yellow ">>>Loading Cuk..."
+sleep 1
+clear
+echo $purple ">>>Loading Cuk...."
+sleep 1
+clear
+echo $blue ">>>Loading Cuk....."
+sleep 1
+clear
+echo $green ">>>Loading Cuk......"
+sleep 1
+clear
+echo $yellow ">>>Loading Cuk......."
+sleep 1
+clear
 echo
 toilet -f big -F gay SANTRI
-toilet -f big -F gay    CYBER
-echo $green"SCRIPT SMILE 2021 05.04.2021"
-echo $blue"######################################"
-echo $purple"AUTHOR    : SANTRI CYBER SANTUY"
-echo $purple"INSTAGRAM : MR VIRUS SPM"
-echo $purple"SCRIPT    : SMILE 2021 05.04.2021"
-echo $purple"TINGKAT   : NEWBIE TO MASTAH"
-echo $purple"WHATSAPP  : +62 821-3456-6596"
-echo $blue"######################################"
+sleep 1
+toilet -f big -F gay CYBER
+sleep 1
+toilet -f big -F gay SANTUY
+sleep 1
+toilet -f big -F gay CUK 
+sleep 2
+echo $green"SCRIPT SMILE 2021 05.04.2021 √don't recode cuk"
+sleep 1
+echo $blue"#######################################"
+sleep 1
+echo $purple"[!]AUTHOR    : SANTRI CYBER SANTUY"
+sleep 1
+echo $purple"[!]INSTAGRAM : AKKU_SANTUY"
+sleep 1
+echo $purple"[!]SCRIPT    : SMILE 2021 05.04.2021"
+sleep 1
+echo $purple"[!]TINGKAT   : NEWBIE TO MASTAH"
+sleep 1
+echo $purple"[!]WHATSAPP  : +62 821-3456-6596"
+sleep 1
+echo $blue"#######################################"
 sleep 2
 echo
 echo $blue"================================="
@@ -91,6 +125,7 @@ read -p "[SCS] MASUKAN NOMER TOOLS CUK : " gan
 
 if [ $gan = 1 ]
 then
+echo
 echo $green"NAH SCRIPTNYA SEMOGA BERMANFAAT"
 echo $blue"==============================="
 echo
@@ -108,6 +143,7 @@ fi
 
 if [ $gan = 2 ]
 then
+echo
 echo $green"NIH SCRIPTNYA SEMOGA BERMANFAAT"
 echo $blue"==============================="
 sleep 1
@@ -125,6 +161,7 @@ fi
 
 if [ $gan = 3 ]
 then
+echo
 echo $green"NIH SCRIPTNYA SEMOGA BERMANFAAT"
 echo $blue"================================"
 sleep 1
@@ -141,6 +178,7 @@ fi
 
 if [ $gan = 4 ]
 then
+echo
 echo $green"NIH SCRIPTNYA SEMOGA BERMANFAAT"
 echo $blue"==============================="
 sleep 1
@@ -158,6 +196,7 @@ fi
 
 if [ $gan = 5 ]
 then
+echo
 echo $green"NIH SCRIPTNYA SEMOGA BERMANFAAT"
 echo $blue"==============================="
 sleep 1
@@ -175,6 +214,7 @@ fi
 
 if [ $gan = 6 ]
 then
+echo
 echo $green"NIH SCRIPTNYA SEMOGA BERMANFAAT"
 echo $blue"==============================="
 sleep 1
@@ -192,6 +232,7 @@ fi
 
 if [ $gan = 7 ]
 then
+echo
 echo $green"NIH SCRIPTNYA SEMOGA BERMANFAAT"
 echo $blue"==============================="
 sleep 1
@@ -209,6 +250,7 @@ fi
 
 if [ $gan = 8 ]
 then
+echo
 echo $green"NIH SCRIPTNYA SEMOGA BERMANFAAT"
 echo $blue"================================"
 sleep 1
@@ -228,6 +270,7 @@ fi
 
 if [ $gan = 9 ]
 then
+echo
 echo $green"NIH SCRIPTNYA SEMOGA BERMANFAAT"
 echo $blue"==============================="
 sleep 1
@@ -245,6 +288,7 @@ fi
 
 if [ $gan = 10 ]
 then
+echo
 echo $green"NIH SCRIPTNYA SEMOGA BERMANFAAT"
 echo $blue"==============================="
 sleep 1
@@ -261,6 +305,7 @@ fi
 
 if [ $gan = 11 ]
 then
+echo
 echo $green"NIH SCRIPTNYA SEMOGA BERMANFAAT"
 echo $blue"==============================="
 sleep 1
@@ -280,6 +325,7 @@ fi
 
 if [ $gan = 12 ]
 then
+echo
 echo $green"NIH SCRIPTNYA SEMOGA BERMANFAAT"
 echo $blue"==============================="
 sleep 1
@@ -294,6 +340,7 @@ fi
 
 if [ $gan = 13 ]
 then
+echo
 echo $green"NIH SCRIPTNYA SEMOGA BERMANFAAT"
 echo $blue"==============================="
 echo
@@ -310,6 +357,7 @@ fi
 
 if [ $gan = 14 ]
 then
+echo
 echo $green"NIH SCRIPTNYA SEMOGA BERMANFAAT"
 echo $blue"==============================="
 echo
@@ -325,6 +373,7 @@ fi
 
 if [ $gan = 15 ]
 then
+echo
 echo $green"NIH SCRIPTNYA SEMOGA BERMANFAAT"
 echo $blue"==============================="
 echo
@@ -345,6 +394,7 @@ fi
 
 if [ $gan = 16 ]
 then
+echo
 echo $green"NIH SCRIPTNYA SEMOGA BERMANFAAT"
 echo $blue"==============================="
 echo
@@ -361,6 +411,7 @@ fi
 
 if [ $gan = 17 ]
 then
+echo
 echo $green"NIH SCRIPTNYA SEMOGA BERMANFAAT"
 echo $blue"==============================="
 echo
@@ -377,6 +428,7 @@ fi
 
 if [ $gan = 18 ]
 then
+echo
 echo $green"NIH SCRIPTNYA SEMOGA BERMANFAAT"
 echo $blue"==============================="
 echo
@@ -394,12 +446,14 @@ fi
 
 if [ $gan = 19 ]
 then
+echo
 echo $blue"======================================="
 echo $green"TRIMAKASIH SUDAH MENGUNAKAN TOOLS INI"
 echo $yellow"JANGAN LUPA FOLLOW IG KU @AKKU_SANTUY"
 echo $blue"======================================="
 echo
-sleep 2
+sleep 3
+clear
 echo $yellow"YAUDAH TINGGAL EXIT AJA KONTOL"
 echo $green"JANGAN LUPA ISTIGHFAR KITA SEMUA PENDOSA"
 echo $blue"######################################"
