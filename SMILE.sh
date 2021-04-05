@@ -13,14 +13,15 @@ yellow='\033[33;1m'
 
 clear
 echo
-toilet -f big -F gay SANTRI CYBER
+toilet -f big -F gay SANTRI
+toilet -f big -F gay    CYBER
 echo $green"SCRIPT SMILE 2021 05.04.2021"
 echo $blue"######################################"
 echo $purple"AUTHOR    : SANTRI CYBER SANTUY"
 echo $purple"INSTAGRAM : MR VIRUS SPM"
 echo $purple"SCRIPT    : SMILE 2021 05.04.2021"
 echo $purple"TINGKAT   : NEWBIE TO MASTAH"
-echo $purple"WHATSAPP  : +62 821-3456-6596
+echo $purple"WHATSAPP  : +62 821-3456-6596"
 echo $blue"######################################"
 sleep 2
 echo
