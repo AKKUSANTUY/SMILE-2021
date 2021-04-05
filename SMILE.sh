@@ -461,6 +461,6 @@ echo $purple"AUTHOR    : SANTRI CYBER SANTUY"
 echo $purple"INSTAGRAM : MR VIRUS SPM"
 echo $purple"SCRIPT    : SMILE 2021 05.04.2021"
 echo $purple"TINGKAT   : NEWBIE TO MASTAH"
-echo $purple"WHATSAPP  : +62 821-3456-6596
+echo $purple"WHATSAPP  : +62 821-3456-6596"
 echo $blue"######################################"
 fi
